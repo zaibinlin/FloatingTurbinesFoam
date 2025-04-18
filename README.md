@@ -1,29 +1,20 @@
-# FloatingTurbinesFoamR
+# FloatingTurbinesFoam
 [![Image loading](./doc/pic.png)](https://www.youtube.com/watch?v=D-EE6wJXsYc)
 
-[**FloatingporousFoam**](https://www.youtube.com/watch?v=D-EE6wJXsYc) is a library for simulating porous structure's motion under wave and current in OpenFOAM.
+[**FloatingTurbinesFoam**](https://www.youtube.com/watch?v=D-EE6wJXsYc) is a library for simulating floating offshore wind turbine's (FOWT) motion under wind-wave-current in OpenFOAM.
 
 ## Usage
-Cases have been tested for OpenFOAM v2206 only.
+Cases have been tested for OpenFOAM v2012 only.
 
 Requires `olaFlow`: https://github.com/phicau/olaFlow.
 
-For the moored-floating porous sturcture case, requires `foamMooring`: https://gitlab.com/hfchen20/foamMooring/-/tree/master/.
+Requires `foamMooring`: https://gitlab.com/hfchen20/foamMooring/-/tree/master/.
 
 ## Installation
-1. Copy the `floatingporousFoam` floder to `$WM_PROJECT_USER_DIR`.
-2. Run `./Allwmake`.
-3. Include the following lines in your `contorlDict`:
-   
-   `libs
-      (
-        poroussixDoFRigidBodyMotion
-      );`
-
-4. Run your case with `porousolaDyMFlow`
+Installation
 
 ## Publications
-Yiyong Dong, Weikai Tan, Hao Chen, Jing Yuan; Numerical modeling of wave interaction with a porous floating structure consisting of uniform spheres. Physics of Fluids 1 August 2024; 36 (8): 087133. https://doi.org/10.1063/5.0222161
+Publications
 
 ## Acknowledgements
 **OpenFOAM** is free, open source software for computational fluid dynamics (CFD), developed primarily by CFD Direct, on behalf of the [OpenFOAM](https://openfoam.org/) Foundation. 
