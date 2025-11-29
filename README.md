@@ -25,4 +25,4 @@ Publications
 
 **foamMooring** is a mooring restraints library for rigid body motions in OpenFOAM®, developed by [Haifei Chen](https://gitlab.com/hfchen20/foamMooring/-/tree/master/).
 
-**FloatingTurbine**  containing the simulation setups and libraries from the thesis 'CFD Simulation of a Floating Wind Turbine with OpenFOAM [FloatingTurbine](https://github.com/fronterapp/thesis-FloatingTurbine).
+**FloatingTurbine**  containing the simulation setups and libraries from the thesis 'CFD Simulation of a Floating Wind Turbine with OpenFOAM, developed by [Pere Frontera](https://github.com/fronterapp/thesis-FloatingTurbine).
