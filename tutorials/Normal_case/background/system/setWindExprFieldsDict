@@ -31,7 +31,7 @@ expressions
         //Log wind
         "U_ref = 8"
         "z_ground = 0.0"
-        "z_0 = 10"
+        "z_0 = 0.01"
         "z_ref = 150.0"
 
       );

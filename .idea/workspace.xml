@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b27d60d-037f-4f32-9fee-51382fc6a7ef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/olaFlow/genAbs_wwc/waveAbsorption/2DWaveAbsorptionVelocity/waveAbsorptionVelocity2DFvPatchVectorField.C" beforeDir="false" afterPath="$PROJECT_DIR$/src/olaFlow/genAbs_wwc/waveAbsorption/2DWaveAbsorptionVelocity/waveAbsorptionVelocity2DFvPatchVectorField.C" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/olaFlow/genAbs_wwc/waveGeneration/waveVelocity/waveVelocityFvPatchVectorField.C" beforeDir="false" afterPath="$PROJECT_DIR$/src/olaFlow/genAbs_wwc/waveGeneration/waveVelocity/waveVelocityFvPatchVectorField.C" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/Exreme_case/background/system/elementData" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/Exreme_case/background/system/elementData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/Exreme_case/background/system/elementData2" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/Exreme_case/background/system/elementData2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/Normal_case/background/system/elementData" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/Normal_case/background/system/elementData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/Normal_case/background/system/elementData2" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/Normal_case/background/system/elementData2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/Normal_case/background/system/setWindExprFieldsDict" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/Normal_case/background/system/setWindExprFieldsDict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/Normal_case/myVars" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/Normal_case/myVars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/Verification_case/CofR_extract" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/Verification_case/CofR_extract" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/Verification_case/CofR_extract_plus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/Verification_case/myVars" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/Verification_case/myVars" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764655375711</updated>
-      <workItem from="1764655380755" duration="1008000" />
+      <workItem from="1764655380755" duration="2227000" />
     </task>
     <servers />
   </component>

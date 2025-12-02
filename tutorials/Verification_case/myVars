@@ -71,13 +71,12 @@ t_final		        600;//#calc "80*$wave_period";
 xmin                    -360;//-480;
 xmax                     360;//480;
 ymin                    -120;//-240;
-ymax                     120;
+ymax                     120;//240
 zmin                    -200;//-105;
 zmax                     240;//390;
-//Cell size: 15.36m - 46.08m
-x_mesh                   210;
+x_mesh                   210;//300
 y_mesh                   70;//100;
-z_mesh			 200;
+z_mesh			         200;//300
 
 
 

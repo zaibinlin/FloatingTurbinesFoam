@@ -64,9 +64,9 @@ ymax                     144;//160;
 zmin                    -105;
 zmax                     390;
 //Cell size: 15.36m - 46.08m
-x_mesh                   24;
-y_mesh                   24;
-z_mesh			 80;//120;
+x_mesh                   24;//40
+y_mesh                   24;//40
+z_mesh			         80;//120;
 
 
 
