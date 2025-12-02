@@ -12,11 +12,22 @@ Requires `foamMooring`: https://gitlab.com/hfchen20/foamMooring/-/tree/master/.
 
 Requires `kOmegaSSTStable`: https://github.com/phicau/olaFlow_supplementary.
 
+Requires `FloatingTurbine`: https://github.com/fronterapp/thesis-FloatingTurbine
+
+Requires `OpenFOAM-v2012`
+
+
 ## Installation
-Installation
+
+```bash
+git clone https://github.com/Dylan000112/FloatingTurbinesFoam.git
+cd <project-directory>
+./Allwmake
+```
 
 ## Publications
-Publications
+The impact of wave-current interaction on the dynamic response of a floating offshore wind turbine: a CFD investigation.
+
 
 ## Acknowledgements
 **OpenFOAM** is free, open source software for computational fluid dynamics (CFD), developed primarily by CFD Direct, on behalf of the [OpenFOAM](https://openfoam.org/) Foundation. 
