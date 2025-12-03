@@ -54,7 +54,7 @@ sixDoFRigidBodyMotionCoeffs
 
   constraints
   {
- /*
+          /*
           pitchOnly
           {
             sixDoFRigidBodyMotionConstraint   axis;

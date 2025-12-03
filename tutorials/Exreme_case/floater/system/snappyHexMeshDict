@@ -22,7 +22,7 @@ addLayers       off;
 
 geometry
 {
-    floater05172.stl  
+    floater.stl
     {
         type triSurfaceMesh; 
         name floater;
@@ -44,7 +44,7 @@ castellatedMeshControls
     features
     (
         {
-            file   "floater05172.eMesh";    
+            file   "floater.eMesh";
             level   1;
         }
     );
