@@ -1,5 +1,18 @@
 #!/bin/bash
 
-echo "Loading..."
+cd src
 
+echo "Clean OlaFlow..."
+(cd olaFlow && wclean)
 
+echo "Clean Wind-Wave-Current Boundary Condition..."
+(cd olaFlow/genAbs_wwc && wclean)
+
+echo "Clean kOmegaSST-Stablized Model..."
+(cd olaFlow_supplementary\turbulenceMultiphase\turbulenceMultiphaseLibrary && wclean)
+
+echo "Clean floatingTurbinesFoam..."
+(cd floatingTurbinesFoam && ./Allwclean)
+
+echo "Clean floatingSixDoFRigidBodyMotion..."
+(cd floatingSixDoFRigidBodyMotion && wclean)

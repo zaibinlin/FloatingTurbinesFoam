@@ -1,4 +1,18 @@
 #!/bin/bash
 
-echo "Loading..."
+cd src
 
+echo "Compling OlaFlow..."
+(cd olaFlow && ./allMake)
+
+echo "Compling Wind-Wave-Current Boundary Condition..."
+(cd olaFlow/genAbs_wwc && ./allMake)
+
+echo "Compling kOmegaSST-Stablized Model..."
+(cd olaFlow_supplementary\turbulenceMultiphase\turbulenceMultiphaseLibrary && ./allMake)
+
+echo "Compling floatingTurbinesFoam..."
+(cd floatingTurbinesFoam && ./Allwmake)
+
+echo "Compling floatingSixDoFRigidBodyMotion..."
+(cd floatingSixDoFRigidBodyMotion && wmake libso)

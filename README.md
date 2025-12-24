@@ -19,11 +19,16 @@ Requires `OpenFOAM-v2012`
 
 ## Installation
 
-```bash
-git clone https://github.com/Dylan000112/FloatingTurbinesFoam.git
-cd <project-directory>
-./Allwmake
-```
+1.  **Download the source code** to your user directory:
+    ```bash
+    cp -r FloatingTurbinesFoam $WM_PROJECT_USER_DIR/
+    ```
+
+2.  **Compile the library and solvers**:
+    ```bash
+    cd $WM_PROJECT_USER_DIR/FloatingTurbinesFoam
+    ./Allwmake
+    ```
 
 ## Publications
 The impact of wave-current interaction on the dynamic response of a floating offshore wind turbine: a CFD investigation.
