@@ -100,10 +100,10 @@ Typical workflow:
 
 If you use this code for academic research, please verify the simulation results against the following study:
 
-> **The impact of wave-current interaction on the dynamic response of a floating offshore wind turbine: a CFD investigation.**
+Yiyong Dong, Weikai Tan, Kaiqing Luo, Yuzhu Pearl Li, Jing Yuan,
+The impact of wave–current interaction on the dynamic response of a floating offshore wind turbine: A CFD investigation,
+Applied Ocean Research, Volume 167, 2026, 104928, ISSN 0141-1187, https://doi.org/10.1016/j.apor.2026.104928.
 
-
----
 
 ## 👏 Acknowledgements
 
